@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: DL4C
 
 # Your name to show in the footer
-author: Some Person
+author: DL4C organizers
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,6 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -100,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "dl4c.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
