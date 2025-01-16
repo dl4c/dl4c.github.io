@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: DL4C
+title: Deep Learning For Code
 
 # Your name to show in the footer
 author: DL4C organizers
@@ -49,14 +49,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "dl4c@googlegroups.com"
+  github: DL4Code
+  twitter: DL4Code
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -84,7 +79,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Deep Learning for Code (DL4C) is a workshop that will provide a platform for researchers to share their work on deep learning for code.
 
 ###########################
 # --- General options --- #
@@ -125,7 +120,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "code, code generation, AI, machine learning, workshop, ICLR, learning representations, genai, papers, coding agents"
 
 ######################################
 # --- Colours / background image --- #
