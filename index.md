@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My website
+title: Deep Learning for Code
 subtitle: Emergent Possibilities and Challenges in Deep Learning for Code
 ---
 
