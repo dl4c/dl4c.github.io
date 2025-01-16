@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning for Code
+title: DL4C
 subtitle: Emergent Possibilities and Challenges in Deep Learning for Code
 ---
 
