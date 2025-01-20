@@ -5,10 +5,13 @@ subtitle: Emergent Possibilities and Challenges in Deep Learning for Code
 ---
 
 
-We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on Apr 27, 2025! The submission deadline is **February 3rd, 11:59PM AoE**. The submission site will be open in Jan 2025.
+We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **Apr 27, 2025**! The submission deadline is **February 10th, 11:59PM AoE**. The submission site will be open in Jan 2025.
 
 
 #### News
+
+**Jan 19, 2025** The submission site is live on [openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C#tab-recent-activity)! We also updated our Call for Papers w.r.t. short/tiny papers following ICLR guideline – check it out!
+
 
 **Dec 10, 2024** We released the first call for papers. The submissions deadline is Feb 3rd, 2025 23:59 AoE. We look forward to your submissions!
 

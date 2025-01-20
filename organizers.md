@@ -4,6 +4,6 @@ title: Organizers
 permalink: /organizers/
 ---
 
-**Program Committee Members**
+![image](assets/img/organizers/devjeet.jpeg){: style="float: left"}
 
-To be announced
+Devjeet Roy,  Washington State University 
