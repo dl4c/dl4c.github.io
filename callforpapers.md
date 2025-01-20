@@ -9,7 +9,7 @@ permalink: /callforpapers/
 
 Workshop part of [ICLR 2025](http://iclr.cc).
 
-We invite original research paper submissions from a wide range of topics related to deep learning for code, including but not limited to:
+We invite original research paper submissions from any topic that is relevant to deep learning for code. This year, we specifically welcome submissions addressing recent challenges like
 
 * **Agentic Methods for Programming Tasks**
 Agents able to solve realistic coding tasks, such as solving GitHub issues or software developing tasks. 
@@ -28,7 +28,7 @@ We also welcome contributions from researchers interested in developing open sci
 Benchmarks for code such execution-based benchmarks, code understanding, code efficiency, model-based judges, and project-level context.
 
 
-Other topics of interest include but are not limited to: Reinforcement Learning for Code, Pre-training Methods and Representation for Code, From Natural Language To Code, Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery, Formal Methods for Code, and various applications of code models such as Program Repair, Code Translation, Code Explanation, etc. 
+**Other topics of interest include but are not limited to**, for example: Reinforcement Learning for Code, Pre-training Methods and Representation for Code, From Natural Language To Code, Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery, Formal Methods for Code, and various applications of code models such as Program Repair, Code Translation, Code Explanation, etc. 
 
 Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for regular papers with up to 9 pages of content, and short papers with up to 4 pages of content (see below), both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICLR 2025, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip).
 
@@ -87,13 +87,13 @@ Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their
 
 ##### **How do I submit a paper?**
 
-We will share the link to the submission website in January 2025.
+Please submit your work at [https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
 
 Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](http://dl4c.github.io/contactus) via email.
 
 ##### **Are we allowed to submit a paper with an appendix?** 
 
-Yes, you can submit an appendix but reviewers will be instructed to only review the first 8 pages excluding references.
+Yes, you can submit an appendix but reviewers are not required to review it.
 
 ##### **Awards and prizes**
 
