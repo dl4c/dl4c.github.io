@@ -33,11 +33,12 @@ Benchmarks for code such execution-based benchmarks, code understanding, code ef
   * Data for Code
   * Pre-training Methods and Representation for Code
   * Natural Language To Code
-  * Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery
   * Formal Methods for Code
   * Program Repair
   * Code Translation
   * Code Explanation
+  * Code Summarization
+  * Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery
   * ... 
 
 Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for regular papers with up to 9 pages of content, and short papers with up to 4 pages of content (see below), both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICLR 2025, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip).
