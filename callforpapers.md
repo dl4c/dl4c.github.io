@@ -105,6 +105,11 @@ Authors of papers accepted at ICLR 2025 who wish to submit their work to the wor
 
 Yes, you can submit an appendix but reviewers are not required to review it.
 
+
+##### **Student Funding**
+
+While things are being finalized, we expect funding for students especially from under-represented groups and/or having financial difficulty thanks to our generous sponsors.
+
 ##### **Awards and prizes**
 
 We will have awards at the workshop. The details will be announced later.
