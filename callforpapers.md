@@ -30,8 +30,9 @@ Benchmarks for code such execution-based benchmarks, code understanding, code ef
 
 * **Other topics of interest include but are not limited to**, for example: 
   * Reinforcement Learning for Code
+  * Data for Code
   * Pre-training Methods and Representation for Code
-  * From Natural Language To Code
+  * Natural Language To Code
   * Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery
   * Formal Methods for Code
   * Program Repair
