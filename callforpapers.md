@@ -34,7 +34,7 @@ Please consider submitting a paper describing your work, which can be research p
 
 ## Important Dates and Info
 
-* **Submissions site**: https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C
+* **Submissions site**: [https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
 * **Submissions will close February Feb 10th, 2025 23:59 AoE.** There is no separate deadline for abstracts.
 * Accept/reject notifications will be sent **March 5th, 2025.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
@@ -47,7 +47,7 @@ Authors should check their email (and spam folder) for acceptance decisions and 
 
 ## Tiny / Short papers
 
-This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short paper submissions, with an eye towards inclusion; see ​​https://iclr.cc/Conferences/2025/CallForTinyPapers for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on https://iclr.cc/Conferences/2025/ at the beginning of February and close on March 2nd.
+This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short paper submissions, with an eye towards inclusion; see ​[​https://iclr.cc/Conferences/2025/CallForTinyPapers](​https://iclr.cc/Conferences/2025/CallForTinyPapers) for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on [https://iclr.cc/Conferences/2025/](https://iclr.cc/Conferences/2025/) at the beginning of February and close on March 2nd.
 
 In DL4C workshop, we welcome Tiny / Short Papers submissions with these goals:
 * Create alternative entry points to research, and in particular, approachable avenues for beginners to enter and enjoy the ICLR community;
