@@ -1,5 +1,5 @@
 ---
-layout: organizers
+layout: page
 title: Organizers
 permalink: /organizers/
 ---

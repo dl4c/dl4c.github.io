@@ -1,5 +1,5 @@
 ---
-layout: papers
+layout: page
 title: Papers
 permalink: /papers/
 ---
