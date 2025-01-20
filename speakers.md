@@ -1,5 +1,5 @@
 ---
-layout: speakers
+layout: page
 title: Speakers
 permalink: /speakers/
 ---
