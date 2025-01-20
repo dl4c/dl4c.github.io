@@ -1,9 +1,4 @@
-# DL4C workshop
+# The Third Deep Learning for Code (DL4C) Workshop at ICLR'25 (Singapore)
 
-This is the website of the DL4C workshop.
-Next edition: April 2024 @ ICLR
+https://dl4c.github.io/
 
-
-# More info about the website
-
-[Original theme repo](https://beautifuljekyll.com/)
