@@ -1,0 +1,6 @@
+.container, .container-md, .container-lg, .container-xl {
+    max-width: 1800px; /* or whatever width you prefer */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
