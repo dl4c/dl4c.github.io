@@ -10,7 +10,7 @@ We are pleased to announce that Deep Learning for Code (DL4C) is returning to IC
 
 **Jan 19, 2025** The submission site is live on [openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C#tab-recent-activity)! We also updated our Call for Papers with more details – check it out! Also, remember to follow our [X account](https://x.com/intent/user?screen_name=DL4Code) for updates!
 
-**Dec 10, 2024** We released the first call for papers. The submissions deadline is Feb 3rd, 2025 23:59 AoE. We look forward to your submissions!
+**Dec 10, 2024** We released the first [call for papers](https://dl4c.github.io/callforpapers/). The submissions deadline is Feb 3rd, 2025 23:59 AoE. We look forward to your submissions!
 
 **Dec 10, 2024** We are looking for program committee members. Please sign up at [this google form](https://docs.google.com/forms/d/e/1FAIpQLSc0jcjGpD31_AQ1ddFQ1YBQxqvjs7HBe-XL91N7Vu29GpPShg/viewform)
 
