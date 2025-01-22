@@ -91,11 +91,10 @@ but you can still share it publicly on platforms like ArXiv or on social media.
 
 We accept submissions of the following types:
 
-1. Fully original work not submitted elsewhere.
-2. Work that is submitted elsewhere and is still under review. If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
-3. Work that has been rejected at ICLR 2025.
+1. Fully original work not under reviewed elsewhere.
+2. Work that is under review at another venue (e.g., ICML and ARR). If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
 
-Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. The DL4C organizers will decide if the work is going to be cross-listed on the DL4C website. The decision is based solely on relevance to DL4C; there will not be a review process for the work. Such submissions are exempt from spotlighting, and a poster slot is available upon request. Please [contact us](http://dl4c.github.io/contactus).
+Furthermore, for authors of work accepted at ICLR 2025 or another relevant venue who wish to promote their work at DL4C, we will be happy to consider a dual submission. The DL4C organizers will decide if the work is going to be cross-listed on the DL4C website. The decision is based solely on relevance to DL4C; there will not be a review process for the work. Such submissions are exempt from spotlighting, and a poster slot is available upon request. Please [contact us](/contactus) with your paper and situation.
 
 ##### **How do I submit a paper?**
 
