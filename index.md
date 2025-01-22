@@ -18,6 +18,6 @@ We are pleased to announce that Deep Learning for Code (DL4C) is returning to IC
 
 #### About
 
-The thrid DL4C workshop titled ``Emergent Possibilities and Challenges in Deep Learning for Code'' provides a vibrant platform for researchers to share their work on deep learning for code, emphasizing emergent possibilities and challenges, for example: agentic methods for programming tasks, post-training and alignment for code, developer productivity and HCI for code, open science and responsible AI for code, and benchmarking and evaluation for code.
+The thrid DL4C workshop titled "Emergent Possibilities and Challenges in Deep Learning for Code'' provides a vibrant platform for researchers to share their work on deep learning for code, emphasizing emergent possibilities and challenges, for example: agentic methods for programming tasks, post-training and alignment for code, developer productivity and HCI for code, open science and responsible AI for code, and benchmarking and evaluation for code.
 
 Please join us for a day of exciting talks, posters, and discussions on the latest advances in deep learning for code!
