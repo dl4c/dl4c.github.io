@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Deep Learning for Code Workshop
+title: The Third Deep Learning for Code Workshop
 ---
 
 
