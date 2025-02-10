@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DL4C
+title: The Deep Learning for Code Workshop
 ---
 
 
