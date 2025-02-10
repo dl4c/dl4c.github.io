@@ -3,4 +3,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-  
+
+.page-heading h1 {
+  font-size: 2rem !important; /* Smaller size */
+}
