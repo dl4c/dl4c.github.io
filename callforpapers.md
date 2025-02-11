@@ -95,7 +95,7 @@ We accept submissions of the following types:
 2. Work that is under review at another venue (e.g., ICML and ARR). If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
 
 Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. Such work will not be reviewed and are exempt from spotlighting, but a poster slot is available upon request. The DL4C organizers will decide if the work will be cross-listed on the DL4C website solely on its relevance to DL4C. 
-For works accepted at other venues, we still require submitting the paper through the portal and going through the normal reviewing process, to decide if it will be accepted and presented at DL4C.
+For works accepted at other venues other than ICLR, we still require submitting the paper through the portal and going through the normal reviewing process, to decide if it will be accepted and presented at DL4C.
 For any other questions, please [contact us](/contactus) with your paper and situation.
 
 ##### **How do I submit a paper?**
