@@ -96,13 +96,13 @@ We accept submissions of the following types:
 
 Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. Such work will not be reviewed and are exempt from spotlighting, but a poster slot is available upon request. The DL4C organizers will decide if the work will be cross-listed on the DL4C website solely on its relevance to DL4C. 
 For works accepted at other venues other than ICLR, we still require submitting the paper through the portal and going through the normal reviewing process, to decide if it will be accepted and presented at DL4C.
-For any other questions, please [contact us](/contactus) with your paper and situation.
+For any other questions, please [contact us](mailto:dl4c@googlegroups.com) with your paper and situation.
 
 ##### **How do I submit a paper?**
 
 Please submit your work at [https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
 
-Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](http://dl4c.github.io/contactus) via email.
+Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](mailto:dl4c@googlegroups.com) via email.
 
 ##### **Are we allowed to submit a paper with an appendix?** 
 
@@ -123,7 +123,7 @@ Accepted papers will be invited to submit a poster that will be displayed during
 
 ##### **How do I submit a demo?**
 
-Please [contact us](/contactus).
+Please [contact us](mailto:dl4c@googlegroups.com).
 
 
 
