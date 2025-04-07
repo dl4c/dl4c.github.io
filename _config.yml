@@ -20,7 +20,7 @@ author: DL4C organizers
 ###############################################
 
 navbar-links:
-  Call for papers: "callforpapers"
+  CFP: "callforpapers"
   Organizers: "organizers"
   Papers: "papers"
   Schedule: "schedule"
