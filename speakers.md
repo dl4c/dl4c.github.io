@@ -30,12 +30,6 @@ permalink: /speakers/
     </td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="/assets/img/speakers/tao_yu.jpeg" width="200px" alt="Tao Yu"></td>
-    <td style="border: none;"><a href="https://taoyds.github.io/">Tao Yu</a>
-    <br>Assistant Professor at <a href="https://www.hku.hk/">The University of Hong Kong</a>
-    </td>
-  </tr>
-  <tr>
     <td style="border: none;"><img src="/assets/img/speakers/druga.webp" width="200px" alt="Stefania Druga"></td>
     <td style="border: none;"><a href="https://stefania11.github.io/">Stefania Druga</a>
     <br> Research Scientist <a href="https://gemini.google.com/app">Google Gemini</a>
