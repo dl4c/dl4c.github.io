@@ -6,9 +6,9 @@ permalink: /speakers/
 
 <table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
   <tr>
-    <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
-    <td style="border: none;"><a href="https://www.phontron.com/">Graham Neubig</a><br>Associate Professor at the <a href="https://www.cs.cmu.edu/">Carnegie Mellon University Language Technology Institute</a>
-    <br> Chief Scientist at <a href="https://www.all-hands.dev/">All Hands AI </a></td>
+    <td style="border: none;"><img src="/assets/img/speakers/xiangyo.jfif" width="200px" alt="Xingyao Wang"></td>
+    <td style="border: none;"><a href="https://xwang.dev/">Xingyao Wang</a>
+    <br> Co-founder and Chief AI Officer<a href="https://www.all-hands.dev/">All Hands AI </a></td>
   </tr>
   <tr>
     <td style="border: none;"><img src="/assets/img/speakers/daniel.jpg" width="200px" alt="Daniel Fried"></td>
@@ -32,7 +32,13 @@ permalink: /speakers/
   <tr>
     <td style="border: none;"><img src="/assets/img/speakers/druga.webp" width="200px" alt="Stefania Druga"></td>
     <td style="border: none;"><a href="https://stefania11.github.io/">Stefania Druga</a>
-    <br> Research Scientist <a href="https://gemini.google.com/app">Google Gemini</a>
+    <br> Research Scientist at <a href="https://gemini.google.com/app">Google Gemini</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;"><img src="/assets/img/speakers/alex_gu.jpg" width="200px" alt="Alex Gu"></td>
+    <td style="border: none;"><a href="https://minimario.github.io/">Alex Gu</a>
+    <br>PhD student at <a href="https://web.mit.edu/">Massachusetts Institute of Technology</a>
     </td>
   </tr>
 
