@@ -7,3 +7,55 @@
 .page-heading h1 {
   font-size: 2.75rem !important; /* Smaller size */
 }
+
+
+/* Schedule styling */
+.schedule-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.schedule-item {
+  display: flex;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 15px;
+}
+
+.schedule-time {
+  width: 180px;
+  font-weight: bold;
+  color: #555;
+  flex-shrink: 0;
+}
+
+.schedule-content {
+  flex-grow: 1;
+}
+
+.schedule-title {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+
+.schedule-type {
+  color: #666;
+  font-style: italic;
+}
+
+.schedule-link {
+  margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+  .schedule-item {
+    flex-direction: column;
+  }
+  
+  .schedule-time {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+
