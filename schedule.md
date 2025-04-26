@@ -4,6 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
+Please also find a detailed schedule on the ICLR official website [here](https://iclr.cc/virtual/2025/workshop/23976). 
 
 <div class="schedule-container">
   <div class="schedule-item">
