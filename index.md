@@ -7,6 +7,8 @@ We are pleased to announce that after two successful installations at ICLR'22 an
 
 #### News
 
+**Apr 28, 2025** Huge thanks to everyone who made DL4C @ ICLR 2025 a success!  If you attended, please share your thoughts through our short feedback form [here](https://forms.gle/y7VP2A8RsVF6NRWi8) — your input can help us make the next edition better!
+
 **Feb 9, 2025** We are extending the deadline to Feb 12th EoD AoE! Some more time to polish your work :)
 
 **Jan 19, 2025** The submission site is live on [openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C#tab-recent-activity)! We also updated our Call for Papers with more details – check it out! Also, remember to follow our [X account](https://x.com/intent/user?screen_name=DL4Code) for updates!
