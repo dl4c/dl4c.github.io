@@ -5,9 +5,7 @@ permalink: /callforpapers/
 ---
 
 
-**CFP: The third DL4C workshop: Emergent Possibilities and Challenges in Deep Learning for Code**
-
-Workshop part of [ICLR 2025](http://iclr.cc).
+**CFP: The 4th DL4C workshop: Deep Learning for Code in the Agentic Era**
 
 We invite original research paper submissions from any topic that is relevant to deep learning for code. This year, we specifically welcome submissions addressing recent challenges like:
 
@@ -41,30 +39,17 @@ Benchmarks for code such execution-based benchmarks, code understanding, code ef
   * Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery
   * ... 
 
-Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for regular papers with up to 9 pages of content, and short papers with up to 4 pages of content (see below), both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICLR 2025, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip).
+Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for regular papers with up to 9 pages of content, and short papers with up to 4 pages of content (see below), both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for NeurIPS 2025, provided at [https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip).
 
 ## Important Dates and Info
 
-* **Submissions site**: [https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
-* **Submissions will close February Feb 10th, 2025 23:59 AoE.** There is no separate deadline for abstracts.
-* Accept/reject notifications will be sent **March 5th, 2025.**
+* **Submissions site**: [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C)
+* **Submissions will close on Sept, 1st 2025, 2:30 am CEST.** There is no separate deadline for abstracts.
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
-* Camera-ready pdfs and posters of accepted submissions are due by March 20th, 2025 11:59 PM AoE.
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
 Authors should check their email (and spam folder) for acceptance decisions and instructions on how to submit their camera-ready paper and poster by the deadline.
 
-
-## Tiny / Short papers
-
-This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short paper submissions, with an eye towards inclusion; see ​[​https://iclr.cc/Conferences/2025/CallForTinyPapers](​https://iclr.cc/Conferences/2025/CallForTinyPapers) for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on [https://iclr.cc/Conferences/2025/](https://iclr.cc/Conferences/2025/) at the beginning of February and close on March 2nd.
-
-In DL4C workshop, we welcome Tiny / Short Papers submissions with these goals:
-* Create alternative entry points to research, and in particular, approachable avenues for beginners to enter and enjoy the ICLR community;
-* Celebrate intermediate breakthroughs in representation learning research;
-* Efficiently disseminate ideas, findings, and opinions within the ICLR community.
-
-All submissions must be limited to 4 pages (not including references and supplementary materials) and will follow the same timeline as regular long papers.
 
 ## FAQ
 
@@ -93,13 +78,13 @@ We accept submissions of the following types:
 1. Fully original work not under reviewed elsewhere.
 2. Work that is under review at another venue (e.g., ICML and ARR). If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
 
-Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. Such work will not be reviewed and are exempt from spotlighting, but a poster slot is available upon request. The DL4C organizers will decide if the work will be cross-listed on the DL4C website solely on its relevance to DL4C. 
-For works accepted at other venues other than ICLR, we still require submitting the paper through the portal and going through the normal reviewing process, to decide if it will be accepted and presented at DL4C.
+Furthermore, for authors of work accepted at NeurIPS 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. Such work will not be reviewed and are exempt from spotlighting, but a poster slot is available upon request. The DL4C organizers will decide if the work will be cross-listed on the DL4C website solely on its relevance to DL4C. 
+For works accepted at other venues other than NeurIPS, we still require submitting the paper through the portal and going through the normal reviewing process, to decide if it will be accepted and presented at DL4C.
 For any other questions, please [contact us](mailto:dl4c@googlegroups.com) with your paper and situation.
 
 ##### **How do I submit a paper?**
 
-Please submit your work at [https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
+Please submit your work at [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C)
 
 Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](mailto:dl4c@googlegroups.com) via email.
 
