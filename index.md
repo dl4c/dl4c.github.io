@@ -7,5 +7,7 @@ We are pleased to announce that after three successful installations at ICLR'22,
 
 #### News
 
+**Jul 24, 2025** The [call for papers](https://dl4c.github.io/callforpapers/) is out! 
+
 **Jul 8, 2025** DL4C will come to North America! We are excited to announce the 4th DL4C workshop at NeurIPS 2025. More details will come. Stay tuned.
 
