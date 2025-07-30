@@ -26,7 +26,7 @@ permalink: /organizers/
     <td style="border: none;"><a href="https://wending.dev/">Wen-Ding Li</a><br>Cornell University</td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="/assets/img/organizers/avatar.png" width="200px" alt="Wasi Uddin Ahmad"></td>
+    <td style="border: none;"><img src="/assets/img/organizers/wasi.png" width="200px" alt="Wasi Uddin Ahmad"></td>
     <td style="border: none;"><a href="http://wasiahmad.github.io/">Wasi Uddin Ahmad</a><br>NVIDIA</td>
   </tr>
   <tr>
