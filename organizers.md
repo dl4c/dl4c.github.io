@@ -30,7 +30,7 @@ permalink: /organizers/
     <td style="border: none;"><a href="http://wasiahmad.github.io/">Wasi Uddin Ahmad</a><br>NVIDIA</td>
   </tr>
   <tr>
-    <td style="border: none;"><img src="/assets/img/organizers/avatar.png" width="200px" alt="Binyuan Hui"></td>
+    <td style="border: none;"><img src="/assets/img/organizers/binyuan.jpg" width="200px" alt="Binyuan Hui"></td>
     <td style="border: none;"><a href="https://huybery.github.io/">Binyuan Hui</a><br>Alibaba Group</td>
   </tr>
 </table> 
