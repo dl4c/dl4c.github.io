@@ -25,5 +25,10 @@ permalink: /speakers/
     <td style="border: none;"><img src="/assets/img/speakers/avatar.png" width="200px" alt="Sida I. Wang"></td>
     <td style="border: none;"><strong>Sida I. Wang</strong><br><strong>Research Scientist at Facebook AI Research (FAIR)</strong>. Previously, he was an instructor at Princeton University and the Institute for Advanced Study and obtained his Ph.D. from Stanford.</td>
   </tr>
+  <tr>
+    <td style="border: none;"><img src="/assets/img/speakers/avatar.png" width="200px" alt="Junyang Lin"></td>
+    <td style="border: none;"><strong>Junyang Lin</strong><br><strong>Tech lead of Qwen Team, Alibaba Group. He is responsible for building Qwen, the large language model and multimodal model series, and he is in charge of the opensource of the models.</td>
+  </tr>
+
 </table>
 
