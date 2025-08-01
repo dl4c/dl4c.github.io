@@ -59,3 +59,20 @@
   }
 }
 
+/* Speaker photos styling */
+.speakers-table img {
+  width: 200px !important;
+  min-width: 200px;
+  max-width: 200px;
+  height: auto;
+}
+
+/* Responsive behavior for very small screens */
+@media (max-width: 300px) {
+  .speakers-table img {
+    width: 180px !important;
+    min-width: 180px;
+    max-width: 180px;
+  }
+}
+
