@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speaker Photos Test</title>
+    <link rel="stylesheet" href="/assets/css/beautifuljekyll.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
+    <style>
+        /* Test styles to visualize different viewport sizes */
+        .test-container {
+            border: 2px solid #ccc;
+            margin: 20px 0;
+            padding: 10px;
+        }
+        .test-label {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .viewport-simulator {
+            border: 1px solid #999;
+            overflow: hidden;
+        }
+        .desktop { width: 1200px; }
+        .tablet { width: 768px; }
+        .mobile { width: 320px; }
+        .small-mobile { width: 280px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Speaker Photos Width Test</h1>
+        <p>This page tests the speaker photo sizing across different viewport widths.</p>
+        
+        <!-- Desktop Test -->
+        <div class="test-container">
+            <div class="test-label">Desktop View (1200px)</div>
+            <div class="viewport-simulator desktop">
+                <table class="speakers-table" style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+                    <tr>
+                        <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
+                        <td style="border: none;"><strong>Graham Neubig</strong><br>Test speaker description for desktop view.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- Tablet Test -->
+        <div class="test-container">
+            <div class="test-label">Tablet View (768px)</div>
+            <div class="viewport-simulator tablet">
+                <table class="speakers-table" style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+                    <tr>
+                        <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
+                        <td style="border: none;"><strong>Graham Neubig</strong><br>Test speaker description for tablet view.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- Mobile Test -->
+        <div class="test-container">
+            <div class="test-label">Mobile View (320px)</div>
+            <div class="viewport-simulator mobile">
+                <table class="speakers-table" style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+                    <tr>
+                        <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
+                        <td style="border: none;"><strong>Graham Neubig</strong><br>Test speaker description for mobile view.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- Small Mobile Test -->
+        <div class="test-container">
+            <div class="test-label">Small Mobile View (280px) - Should show 180px images</div>
+            <div class="viewport-simulator small-mobile">
+                <table class="speakers-table" style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+                    <tr>
+                        <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
+                        <td style="border: none;"><strong>Graham Neubig</strong><br>Test speaker description for small mobile view.</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <!-- Test without speakers-table class (should be responsive) -->
+        <div class="test-container">
+            <div class="test-label">Without speakers-table class (should be responsive)</div>
+            <div class="viewport-simulator mobile">
+                <table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+                    <tr>
+                        <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
+                        <td style="border: none;"><strong>Graham Neubig</strong><br>This image should be responsive (smaller than 200px in this container).</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <h2>Expected Results:</h2>
+        <ul>
+            <li><strong>Desktop (1200px):</strong> Images should be exactly 200px wide</li>
+            <li><strong>Tablet (768px):</strong> Images should be exactly 200px wide</li>
+            <li><strong>Mobile (320px):</strong> Images should be exactly 200px wide</li>
+            <li><strong>Small Mobile (280px):</strong> Images should be exactly 180px wide (responsive breakpoint)</li>
+            <li><strong>Without class:</strong> Images should be responsive and smaller than 200px in the mobile container</li>
+        </ul>
+
+        <h2>Manual Testing Instructions:</h2>
+        <ol>
+            <li>Open this page in a web browser</li>
+            <li>Use browser developer tools to inspect the image elements</li>
+            <li>Verify that images in the speakers-table have the expected computed width</li>
+            <li>Test on actual mobile devices or use browser responsive design mode</li>
+            <li>Ensure no horizontal scrolling occurs on mobile devices</li>
+        </ol>
+    </div>
+</body>
+</html>
