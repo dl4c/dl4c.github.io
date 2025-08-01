@@ -27,7 +27,7 @@ permalink: /speakers/
   </tr>
   <tr>
     <td style="border: none;"><img src="/assets/img/speakers/avatar.png" width="200px" alt="Junyang Lin"></td>
-    <td style="border: none;"><strong>Junyang Lin</strong>Tech lead of Qwen Team, Alibaba Group. He is responsible for building Qwen, the large language model and multimodal model series, and he is in charge of the opensource of the models.</td>
+    <td style="border: none;"><strong>Junyang Lin</strong><br><strong>Tech lead of Qwen Team, Alibaba Group</strong>strong>. He is responsible for building Qwen, the large language model and multimodal model series, and he is in charge of the opensource of the models.</td>
   </tr>
 
 </table>
