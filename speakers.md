@@ -4,7 +4,7 @@ title: Speakers
 permalink: /speakers/
 ---
 
-<table class="speakers-table" style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
+<table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
   <tr>
     <td style="border: none;"><img src="/assets/img/speakers/neubig.jpg" width="200px" alt="Graham Neubig"></td>
     <td style="border: none;"><strong>Graham Neubig</strong><br><strong>Associate Professor at the Language Technologies Institute of Carnegie Mellon University</strong> and <strong>Chief Scientist at All Hands AI</strong>, which is developing open-source, state-of-the-art coding agents. His research focuses on natural language processing and large language models, including both fundamental advances in model capabilities and applications to tasks such as software development.</td>
