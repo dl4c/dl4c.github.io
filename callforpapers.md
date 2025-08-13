@@ -86,7 +86,7 @@ For any other questions, please [contact us](mailto:dl4c@googlegroups.com) with 
 
 Please submit your work at [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C)
 
-Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](mailto:dl4c@googlegroups.com) via email.
+Authors of papers accepted at NeurIPS 2025 who wish to submit their work to the workshop do so by [contactig us](mailto:dl4c@googlegroups.com) via email.
 
 ##### **Are we allowed to submit a paper with an appendix?** 
 
