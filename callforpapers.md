@@ -44,7 +44,7 @@ Please consider submitting a paper describing your work, which can be research p
 ## Important Dates and Info
 
 * **Submissions site**: [https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/DL4C)
-* **Submissions will close on Aug 27th 2025 11:59PM UTC-0** There is no separate deadline for abstracts.
+* **Submissions will close on Aug 27th 2025 11:59PM UTC-12** There is no separate deadline for abstracts.
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
