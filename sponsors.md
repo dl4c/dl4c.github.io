@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-permalink: /sponsor
+permalink: /sponsors/
 ---
 
 <table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
