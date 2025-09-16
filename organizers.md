@@ -7,7 +7,7 @@ permalink: /organizers/
 <table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
   <tr>
     <td style="border: none;"><img src="/assets/img/organizers/zijian.jpg" width="200px" alt="Zijian Wang"></td>
-    <td style="border: none;"><a href="https://zijianwang.me/">Zijian Wang</a><br>AWS AI Labs</td>
+    <td style="border: none;"><a href="https://zijianwang.me/">Zijian Wang</a><br>Meta MSL</td>
   </tr>
   <tr>
     <td style="border: none;"><img src="/assets/img/organizers/giovanni.jpg" width="200px" alt="Giovanni Zappella"></td>
