@@ -17,6 +17,6 @@ permalink: /schedule/
 | **13:10 - 14:20** | Poster Session             |
 | **14:20 - 15:00** | Invited Talk #4: Liangchen Luo (xAI) |
 | **15:00 - 15:20** | Coffee Break & Social      |
-| **15:20 - 16:00** | Invited Talk #5: Junyang Lin (Deepseek), "Qwen3: Towards a Generalist Model / Agent" |
-| **16:00 - 16:50** | Panel Discussion: Michele Catasta (Replit), Eiso Kant (poolside) |
+| **15:20 - 16:00** | Invited Talk #5: Junyang Lin (Alibaba), "Qwen3: Towards a Generalist Model / Agent" |
+| **16:00 - 16:50** | Panel Discussion: Michele Catasta (Replit), Eiso Kant (poolside), Liangchen Luo (xAI) |
 | **16:50 - 17:00** | Closing Remarks            |
