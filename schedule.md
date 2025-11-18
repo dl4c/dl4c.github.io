@@ -10,7 +10,7 @@ permalink: /schedule/
 |-----------------|---------------------------|
 | **09:10 - 09:20** | Opening Remarks            |
 | **09:20 - 10:00** | Invited Talk #1: Graham Neubig (CMU), "Lessons from the Trenches in Building Agents for Software Development" |
-| **10:00 - 10:40** | Invited Talk #2: Sida Wang (Meta), "Lessons from the Trenches in Building Agents for Software Development" |
+| **10:00 - 10:40** | Invited Talk #2: Sida Wang (Meta), "Predicting all the error bars of LLM evaluations" |
 | **10:40 - 11:30** | Spotlight Sessions         |
 | **11:30 - 12:10** | Invited Talk #3: Dawn Song (Berkeley), "Frontier AI for Secure Code: Challenges and Future Directions" |
 | **12:10 - 13:20** | Lunch & Social             |
