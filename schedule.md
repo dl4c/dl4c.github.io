@@ -15,7 +15,7 @@ permalink: /schedule/
 | **11:30 - 12:10** | **Invited Talk #3:** Dawn Song (Berkeley), "Frontier AI for Secure Code: Challenges and Future Directions" |
 | **12:10 - 13:20** | Lunch & Social             |
 | **13:20 - 14:20** | Poster Session             |
-| **14:20 - 15:00** | **Invited Talk #4:** Liangchen Luo (xAI) |
+| **14:20 - 15:00** | **Invited Talk #4:** Liangchen Luo (xAI), "How to Develop in the Agentic Era" |
 | **15:00 - 15:20** | Coffee Break & Social      |
 | **15:20 - 16:00** | **Invited Talk #5:** Junyang Lin (Alibaba), "Qwen3: Towards a Generalist Model / Agent" |
 | **16:00 - 16:50** | **Panel Discussion:** Michele Catasta (Replit), Eiso Kant (poolside), Liangchen Luo (xAI) |
