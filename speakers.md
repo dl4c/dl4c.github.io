@@ -49,5 +49,8 @@ permalink: /speakers/
     <td style="border: none;"><img src="/assets/img/speakers/sida-wang.jpg" width="200px" alt="Sida I. Wang"></td>
     <td style="border: none;"><strong>Sida I. Wang</strong><br><strong>Research Scientist at Facebook AI Research (FAIR)</strong>. Previously, he was an instructor at Princeton University and the Institute for Advanced Study and obtained his Ph.D. from Stanford.</td>
   </tr>
-
+  <tr>
+    <td style="border: none;"><img src="/assets/img/speakers/lc-luo.jpeg" width="200px" alt="Liangchen Luo"></td>
+    <td style="border: none;"><strong>Liangchen Luo</strong><br><strong>Researcher at xAI</strong>. He initiated and built Grok Code from scratch; and was a core contributor to Grok 3 Think and Grok 4.</td>
+  </tr>
 </table>
