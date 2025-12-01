@@ -17,6 +17,6 @@ permalink: /schedule/
 | **13:20 - 14:20** | Poster Session             |
 | **14:20 - 15:00** | **Invited Talk #4:** Liangchen Luo (xAI), "How to Develop in the Agentic Era" |
 | **15:00 - 15:30** | Coffee Break & Social      |
-| **15:30 - 16:10** | **Invited Talk #5:** Junyang Lin (Alibaba), "Qwen3: Towards a Generalist Model / Agent" |
+| **15:30 - 16:10** | **Invited Talk #5:** Junyang Lin (Alibaba), "Qwen3-Coder: Agentic Coding in the World" |
 | **16:10 - 16:50** | **Panel Discussion:** Michele Catasta (Replit), Graham Neubig (OpenHands/CMU), Eiso Kant (poolside), Sida Wang (Meta FAIR), Liangchen Luo (xAI) |
 | **16:50 - 17:00** | Closing Remarks            |
