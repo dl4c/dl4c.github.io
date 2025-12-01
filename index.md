@@ -7,6 +7,8 @@ We are pleased to announce that after three successful installations at ICLR'22,
 
 #### News
 
+**Dec 1, 2025** The workshop [schedule](https://dl4c.github.io/schedule/) is now available!
+
 **Aug 24, 2025** We have recently received inquiries about workshop deadlines. We wish to clarify that the deadline has been finalized for Aug 27th 2025 11:59PM UTC-12 and will not be extended.
 
 **Jul 24, 2025** The [call for papers](https://dl4c.github.io/callforpapers/) is out! 
