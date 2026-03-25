@@ -6,7 +6,7 @@ permalink: /organizers/
 
 <table style="margin-left: auto; margin-right: auto; width: 90%;border-collapse: collapse;">
   <tr>
-    <td style="border: none;"><img src="/assets/img/organizers/avatar.png" width="200px" alt="Terry Yue Zhuo"></td>
+    <td style="border: none;"><img src="/assets/img/organizers/terry.jpeg" width="200px" alt="Terry Yue Zhuo"></td>
     <td style="border: none;"><a href="https://terryyz.github.io/">Terry Yue Zhuo</a><br>Monash University / Alibaba Group</td>
   </tr>
   <tr>
