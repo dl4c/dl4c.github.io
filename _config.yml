@@ -26,6 +26,7 @@ navbar-links:
   Schedule: "schedule"
   Speakers: "speakers"
   Sponsors: "sponsors"
+  Past Editions: "pasteditions"
   
 
 ################
@@ -122,7 +123,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "code, code generation, AI, machine learning, workshop, ICLR, learning representations, genai, papers, coding agents"
+keywords: "code, code generation, AI, machine learning, workshop, ICML, ICML 2026, deep learning for code, genai, papers, coding agents"
 
 ######################################
 # --- Colours / background image --- #

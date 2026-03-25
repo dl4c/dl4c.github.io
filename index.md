@@ -1,17 +1,13 @@
 ---
 layout: page
-title: The 4th Deep Learning for Code Workshop
+title: The 5th Deep Learning for Code Workshop
 ---
 
-We are pleased to announce that after three successful installations at ICLR'22, '23, and '25, the 4th Deep Learning for Code (DL4C) worshop **Deep Learning For Code in the Agentic Era** is coming to NeurIPS 2025 in San Diego, CA 🇺🇸. 
+We are pleased to announce that after four successful editions at ICLR'22, '23, '25, and NeurIPS'25, the 5th Deep Learning for Code (DL4C) workshop is coming to **ICML 2026** in Seoul, South Korea 🇰🇷.
+
+The workshop will be held on **July 10 or 11, 2026** (exact date TBA) at the COEX Convention & Exhibition Center.
 
 #### News
 
-**Dec 1, 2025** The workshop [schedule](https://dl4c.github.io/schedule/) is now available!
-
-**Aug 24, 2025** We have recently received inquiries about workshop deadlines. We wish to clarify that the deadline has been finalized for Aug 27th 2025 11:59PM UTC-12 and will not be extended.
-
-**Jul 24, 2025** The [call for papers](https://dl4c.github.io/callforpapers/) is out! 
-
-**Jul 8, 2025** DL4C will come to North America! We are excited to announce the 4th DL4C workshop at NeurIPS 2025. More details will come. Stay tuned.
+**Mar 25, 2026** The DL4C website has been updated for the 5th edition at ICML 2026. Stay tuned for the call for papers and more details!
 
