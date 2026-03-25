@@ -4,8 +4,6 @@ title: Past Editions
 permalink: /pasteditions/
 ---
 
-## Past Editions
-
 <table style="margin-left: auto; margin-right: auto; border-collapse: collapse;">
   <tr>
     <th style="border: none; padding: 8px 16px;">Edition</th>
