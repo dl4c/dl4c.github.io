@@ -9,6 +9,8 @@ The workshop will be held on **July 10, 2026, 8:00 a.m. – 5:00 p.m.** in **HAL
 
 #### News
 
+**Apr 28, 2026** We are seeking reviewers for DL4C @ ICML'26! [Sign up to review submissions](https://forms.gle/k9biEqTkEe16pVrb6).
+
 **Apr 28, 2026** The call for papers for DL4C @ ICML'26 is now open! [Learn more and submit your contributions](/callforpapers/).
 
 **Mar 25, 2026** The DL4C website has been updated for the 5th edition at ICML 2026. Stay tuned for the call for papers and more details!
