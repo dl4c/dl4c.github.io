@@ -1,3 +1,23 @@
+/* Mobile menu toggler position */
+@media (max-width: 1199px) {
+  .navbar-custom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .navbar-toggler {
+    margin-left: auto !important;
+    margin-right: 1rem;
+    order: 2;
+  }
+  
+  .navbar-brand,
+  .navbar-brand-logo {
+    order: 1;
+  }
+}
+
 .container, .container-md, .container-lg, .container-xl {
     max-width: 1800px; /* or whatever width you prefer */
     margin-left: auto;
