@@ -55,7 +55,7 @@ Please consider submitting a paper describing your work. We welcome research pap
 * **Submissions site**: [https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C](https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C)
 * **Submission deadline: May 15, 2026, 11:59 pm AOE.** There is no separate deadline for abstracts.
 * **Review period: May 17 – June 1, 2026.**
-* **Acceptance decisions: June 15, 2026.**
+* **Acceptance decisions: June 5, 2026.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after acceptance notifications.
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
