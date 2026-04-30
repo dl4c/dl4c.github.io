@@ -48,7 +48,7 @@ Benchmarks for code including execution-based benchmarks, code understanding, co
   * Broader Societal Implications of Coding Agents in Real-World Work
   * ...
 
-Please consider submitting a paper describing your work. We welcome research papers, technical papers, position papers, and system demonstrations. We are calling for **regular papers** with up to 9 pages of content and **short papers** with up to 4 pages of content, both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICML 2026.
+Please consider submitting a paper describing your work. We welcome research papers, technical papers, position papers, and system demonstrations. We are calling for **regular papers** with up to 8 pages of content and **short papers** with up to 4 pages of content, both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICML 2026.
 
 ## Important Dates and Info
 
