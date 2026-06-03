@@ -18,8 +18,12 @@
   }
 }
 
+.navbar-custom .navbar-brand-logo {
+  padding-left: 0.75rem !important;
+  padding-top: 0.5rem !important;
+}
+
 .navbar-custom .navbar-brand-logo img {
-  margin: 0.5rem;
   border: 2px solid #333;
   border-radius: 50%;
 }
