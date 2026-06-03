@@ -18,14 +18,13 @@
   }
 }
 
-.navbar-custom .navbar-brand-logo {
-  padding-left: 0.75rem !important;
-  padding-top: 0.5rem !important;
+.navbar-custom .avatar-container {
+  left: 0.5rem !important;
+  top: 0.5rem !important;
 }
 
-.navbar-custom .navbar-brand-logo img {
+.navbar-custom .avatar-container .avatar-img {
   border: 2px solid #333;
-  border-radius: 50%;
 }
 
 .container, .container-md, .container-lg, .container-xl {
