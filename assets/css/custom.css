@@ -18,6 +18,12 @@
   }
 }
 
+.navbar-custom .navbar-brand-logo img {
+  margin: 0.5rem;
+  border: 2px solid #333;
+  border-radius: 50%;
+}
+
 .container, .container-md, .container-lg, .container-xl {
     max-width: 1800px; /* or whatever width you prefer */
     margin-left: auto;
