@@ -93,7 +93,7 @@ For authors of work accepted at ICML 2026 who wish to promote their work at DL4C
 
 For works accepted at venues other than ICML 2026, we still require submitting the paper through the portal and going through the normal reviewing process to decide if it will be accepted and presented at DL4C.
 
-For any other questions, please [contact us](mailto:dl4c@googlegroups.com) with your paper and situation.
+For any other questions, please [contact us](mailto:dl4c-26@googlegroups.com) with your paper and situation.
 
 ##### **How do I submit a paper?**
 
@@ -117,4 +117,4 @@ Accepted papers will be invited to submit a poster to be displayed during the wo
 
 ##### **How do I submit a demo?**
 
-Please [contact us](mailto:dl4c@googlegroups.com).
+Please [contact us](mailto:dl4c-26@googlegroups.com).
