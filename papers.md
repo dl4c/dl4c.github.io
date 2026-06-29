@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-## Oral Papers
+## Oral
 
 - [Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?](https://openreview.net/forum?id=PrpZkVxZ5t)
 - [ProgramBench: Can Language Models Rebuild Programs From Scratch?](https://openreview.net/forum?id=2AJ8PBgp4l)
@@ -12,7 +12,7 @@ permalink: /papers/
 - [Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model](https://openreview.net/forum?id=rmXqSEpoSV)
 - [DevBench: An Interaction-Grounded Benchmark for Code Completion Models](https://openreview.net/forum?id=8ZROguA070)
 
-## Poster Papers
+## Poster
 
 - [TritonRL: Training LLMs to Think and Code Triton Without Cheating](https://openreview.net/forum?id=OEF6XLmAUS)
 - [SFT Overtraining Predicts Rank Inversion via Entropy Collapse Under RLVR](https://openreview.net/forum?id=tqesCVD0im)
