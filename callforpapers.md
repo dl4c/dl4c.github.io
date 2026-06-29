@@ -50,12 +50,20 @@ Benchmarks for code including execution-based benchmarks, code understanding, co
 
 Please consider submitting a paper describing your work. We welcome research papers, technical papers, position papers, and system demonstrations. We are calling for **regular papers** with up to 8 pages of content and **short papers** with up to 4 pages of content, both with unlimited references and supplementary materials. To prepare your submission, please use the LaTeX style files for ICML 2026.
 
+In the camera-ready version, authors may use one extra page to address reviewer comments. The camera-ready paper body length limits are:
+
+* **Full papers:** up to **9 pages** of body content in ICML'26 format, followed by acknowledgements, the impact statement (for main track papers), references, and appendices.
+* **Short papers:** up to **5 pages** of body content in ICML'26 format, followed by acknowledgements, references, and appendices.
+
+Full paper camera-ready PDFs must be provided in PDF format with a **maximum file size of 20MB** (including appendices). Please reduce the size/quality of large images if you exceed this.
+
 ## Important Dates and Info
 
 * **Submissions site**: [https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C](https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C)
 * **Submission deadline: ~~May 15~~ May 19, 2026, 11:59 pm AOE.** There is no separate deadline for abstracts.
 * **Review period: ~~May 17~~ May 21 – ~~June 1~~ June 5, 2026.**
-* **Acceptance decisions: ~~June 5~~ ~~June 9~~ 2026.** The acceptance notification is delayed — we are working on finalizing the reviews, please stay tuned.
+* **Acceptance decisions: delayed (previously June 9, 2026).
+* **Camera-ready deadline: July 4, 2026, 11:59 pm AOE.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after acceptance notifications.
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
