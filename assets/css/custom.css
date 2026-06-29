@@ -96,6 +96,33 @@
   height: auto;
 }
 
+.speaker-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.speaker-card {
+  max-width: 240px;
+  text-align: center;
+  padding: 18px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.04);
+}
+
+.speaker-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+  margin: 0 auto 12px;
+}
+
 /* Responsive behavior for very small screens */
 @media (max-width: 300px) {
   .speakers-table img {
