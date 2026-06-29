@@ -9,6 +9,8 @@ The workshop will be held on **July 10, 2026, 8:00 a.m. – 5:00 p.m.** in **HAL
 
 #### News
 
+**Jun 29, 2026** The oral/spotlight paper results have been sent out! Thank you for your patience.
+
 **Jun 17, 2026** The acceptance decisions have been sent out! We are currently working on the spotlight papers. Please stay tuned!
 
 **Jun 11, 2026** The acceptance notification is delayed — we are working on finalizing the reviews, please stay tuned.

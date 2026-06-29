@@ -62,7 +62,7 @@ Full paper camera-ready PDFs must be provided in PDF format with a **maximum fil
 * **Submissions site**: [https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C](https://openreview.net/group?id=ICML.cc/2026/Workshop/DL4C)
 * **Submission deadline: ~~May 15~~ May 19, 2026, 11:59 pm AOE.** There is no separate deadline for abstracts.
 * **Review period: ~~May 17~~ May 21 – ~~June 1~~ June 5, 2026.**
-* **Acceptance decisions: delayed (previously June 9, 2026).
+* **Acceptance decisions: delayed (previously June 9, 2026).** Oral/spotlight paper results were sent out on **June 29, 2026**.
 * **Camera-ready deadline: July 4, 2026, 11:59 pm AOE.**
 * Authors of oral papers will be invited to give a short talk at the workshop and will be notified with details shortly after acceptance notifications.
 
