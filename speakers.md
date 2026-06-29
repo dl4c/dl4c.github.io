@@ -27,7 +27,7 @@ The speakers for the 5th DL4C workshop at ICML 2026 are:
   <div class="speaker-card">
     <img src="https://yu3h0.github.io/assets/images/hero-image.jpg" alt="Yuchong Xie" loading="lazy" />
     <h3><a href="https://yu3h0.github.io/">Yuchong Xie</a></h3>
-    <p>HKUST / Qwen</p>
+    <p>Alibaba Group</p>
   </div>
   <div class="speaker-card">
     <img src="https://dummyimage.com/200x200/cccccc/000000.png&text=Guest" alt="Guest Speaker" loading="lazy" />
