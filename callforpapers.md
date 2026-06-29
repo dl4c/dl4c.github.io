@@ -123,6 +123,17 @@ We will have awards at the workshop. Details will be announced later.
 
 Accepted papers will be invited to submit a poster to be displayed during the workshop. The link to upload the poster will be shared after acceptance notifications.
 
+Poster requirements:
+
+* Must not exceed **36 in (H) x 24 in (W)** or **91 cm (H) x 61 cm (W)**.
+* **Notice:** Workshop posters must be in **portrait format**.
+* It is **prohibited** to hang posters or any signage on the walls in the workshop rooms or public spaces at COEX, Seoul, South Korea.
+* All workshop poster sessions will be held in **Hall A**.
+* Workshop organizers will let you know where to hang your posters.
+* Only the approved tape provided by the conference is permitted to hang your poster on the boards.
+* Do not use adhesive-backed self-sticking posters or anything that can damage the walls or poster boards.
+* More info: https://icml.cc/Conferences/2026/PosterInstructions
+
 ##### **How do I submit a demo?**
 
 Please [contact us](mailto:dl4c-26@googlegroups.com).
