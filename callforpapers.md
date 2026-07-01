@@ -70,6 +70,8 @@ DL4C is **non-archival** and thus **dual submission is allowed** where permitted
 
 Authors should check their email (and spam folder) for acceptance decisions and instructions on how to submit their camera-ready paper and poster by the deadline.
 
+**Note:** Due to limited venue resources, for authors who are unable to attend the workshop in person, we can only support virtual presentation for oral papers. For posters, however, we are unable to find a suitable way to present them virtually, and we sincerely apologize for this limitation.
+
 ---
 
 ## FAQ
