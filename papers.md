@@ -93,7 +93,7 @@ permalink: /papers/
 - [An Empirical Study of Proactive Coding Assistants in Real-World Software Development](https://openreview.net/forum?id=NUV12ROgeF)
 - [V1: Unifying Generation and Self-Verification for Parallel Reasoners](https://openreview.net/forum?id=oku8lng8kw)
 - [Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs](https://openreview.net/forum?id=wmZ4KA2l8x)
-- [NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation](https://openreview.net/forum?id=QThA5cy0Gj)
+- NKI-Agent: Domain-Specific Fine-Tuning and Agentic Tool Use for Neuron Kernel Generation
 - [VibeSWEBench: Can AI Co-Worker Agents Do Real-World Software Engineering by Vibe Coding?](https://openreview.net/forum?id=kWrudm978A)
 - [ExVerus: Verus Proof Repair via Counterexample Reasoning](https://openreview.net/forum?id=8c97ztHRUP)
 - [Beyond Problem Solving: UOJ-Bench for Evaluating Code Generation, Hacking, and Repair in Competitive Programming](https://openreview.net/forum?id=gJL5WagfhF)
