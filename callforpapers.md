@@ -130,7 +130,7 @@ Poster requirements:
 * Must not exceed **36 in (H) x 24 in (W)** or **91 cm (H) x 61 cm (W)**.
 * **Notice:** Workshop posters must be in **portrait format**.
 * It is **prohibited** to hang posters or any signage on the walls in the workshop rooms or public spaces at COEX, Seoul, South Korea.
-* All workshop poster sessions will be held in **Hall A**.
+* All workshop poster sessions will be held in **Hall A, Board 100-119**.
 * Workshop organizers will let you know where to hang your posters.
 * Only the approved tape provided by the conference is permitted to hang your poster on the boards.
 * Do not use adhesive-backed self-sticking posters or anything that can damage the walls or poster boards.

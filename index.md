@@ -9,7 +9,7 @@ The workshop will be held on **July 10, 2026, 8:00 a.m. – 5:00 p.m.** in **HAL
 
 #### News
 
-**Jul 1, 2026** **Camera-ready submission:** Please submit your camera-ready version through OpenReview by **July 4, 2026** (Anywhere on Earth). Open your paper on OpenReview and use the revision to update it. **Poster session:** Please prepare and present your poster following the workshop poster guidelines from the official [ICML 2026 website](https://icml.cc/Conferences/2026). The poster session is tentatively scheduled for **14:30 – 16:20 in Hall B2**. Please check the following for the latest details:
+**Jul 1, 2026** **Camera-ready submission:** Please submit your camera-ready version through OpenReview by **July 4, 2026** (Anywhere on Earth). Open your paper on OpenReview and use the revision to update it. **Poster session:** Please prepare and present your poster following the workshop poster guidelines from the official [ICML 2026 website](https://icml.cc/Conferences/2026). The poster session and spotlight presentations are scheduled for **14:30 – 16:20 in Hall A, Board 100-119**. Please check the following for the latest details:
 - **Location:** the [official ICML workshop page](https://icml.cc/Conferences/2026)
 - **Poster session schedule:** our [workshop schedule page](/schedule/)
 
