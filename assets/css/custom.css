@@ -97,16 +97,17 @@
 }
 
 .speaker-cards {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
   gap: 24px;
   justify-content: center;
   margin: 0 auto;
+  max-width: 560px;
 }
 
 .speaker-card {
-  max-width: 240px;
-  text-align: center;
+  width: 100%;
+  max-width: none;
   padding: 18px;
   border: 1px solid rgba(0, 0, 0, 0.08);
   border-radius: 18px;
