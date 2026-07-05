@@ -12,7 +12,7 @@ The invited speakers for the 5th DL4C workshop at ICML 2026 are:
   <div class="speaker-card">
     <img src="https://cs.stanford.edu/~diyiy/img/Diyi_Yang.jpg" alt="Diyi Yang" loading="lazy" />
     <h3>Talk 1: <a href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a></h3>
-    <p>Stanford</p>
+    <p>Stanford / humans&</p>
   </div>
   <div class="speaker-card">
     <img src="https://yu3h0.github.io/assets/images/hero-image.jpg" alt="Yuchong Xie" loading="lazy" />
