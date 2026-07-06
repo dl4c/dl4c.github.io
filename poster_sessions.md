@@ -28,7 +28,6 @@ The accepted papers are **split** into two poster sessions in Hall A (Board 100-
 | 1 | [Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation](https://openreview.net/forum?id=iB4H079VV0) |
 | 2 | [Can LLMs Detect Benchmark Defects? A Meta-Benchmark from Benchmark Updates](https://openreview.net/forum?id=QdDcI0Ftvo) |
 | 2 | [Certifying the Judge: Falsifiable Properties for LLM-Based Evaluation of Formal Code](https://openreview.net/forum?id=gGR1gE7x3a) |
-| 2 | [CodeCast: Context-Conditional Code Generation for Multimodal Time Series Forecasting](https://openreview.net/forum?id=slSuDfUStI) |
 | 1 | [Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?](https://openreview.net/forum?id=PrpZkVxZ5t) |
 | 1 | [Comparing Developer and LLM Biases in Code Evaluation](https://openreview.net/forum?id=y5GuD5SnXG) |
 | 2 | [CRCA-Context: Counterfactual Robustness of Repository Context Retrieval Under Equivalent Issue Descriptions](https://openreview.net/forum?id=VmgOveMJtr) |

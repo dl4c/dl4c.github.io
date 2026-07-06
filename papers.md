@@ -56,7 +56,6 @@ permalink: /papers/
 - [SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://openreview.net/forum?id=DzF20wT9hn)
 - [Safety Drift in Human-Centered Coding Agents: Suppression vs. Representation Shaping After Benign Adaptation](https://openreview.net/forum?id=EcgdeisCJ3)
 - [Improving Code Efficiency with Iterative Refinement using LLMs](https://openreview.net/forum?id=howLfIkGPd)
-- [CodeCast: Context-Conditional Code Generation for Multimodal Time Series Forecasting](https://openreview.net/forum?id=slSuDfUStI)
 - [VeriBench: An End-to-End Formal Verification Benchmark for AI Coding Agents in Lean 4](https://openreview.net/forum?id=vnXrEM5nNO)
 - [AI Coding Benchmarks Need Proofs, Not Just Tests](https://openreview.net/forum?id=KXy72Au8js)
 - [LLM-Based Rust Code Generation with On-the-Fly Compiler Feedback](https://openreview.net/forum?id=CeOC6w3gPj)
