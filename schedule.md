@@ -12,7 +12,7 @@ permalink: /schedule/
 | 9:10 - 9:40 | Invited Talk 1 -- Diyi Yang (Stanford/humans&) |
 | 9:40 - 10:10 | Invited Talk 2 -- Yuchong Xie (HKUST/Qwen) |
 | 10:10 - 10:30 | Coffee Break |
-| 10:30 - 11:20 | Spotlight Session:<br>*ProgramBench: Can Language Models Rebuild Programs From Scratch?* *Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision* *Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model* *DevBench: An Interaction-Grounded Benchmark for Code Completion Models* *Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?* |
+| 10:30 - 11:20 | Spotlight Session:<br>*10:30 - 10:40 ProgramBench: Can Language Models Rebuild Programs From Scratch?* *10:40 - 10:50 Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision* *10:50 - 11:00 Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model* *11:00 - 11:10 DevBench: An Interaction-Grounded Benchmark for Code Completion Models* *11:10 - 11:20 Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?* |
 | 11:20 - 11:30 | Best Paper Award |
 | 11:30 - 11:50 | Invited Talk 3 -- Ludwig Schmidt (Stanford/Anthropic) |
 | 11:50 - 13:00 | Lunch |
