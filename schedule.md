@@ -4,9 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-The schedule for the 5th DL4C workshop at ICML 2026 is below.
-
-Friday Jul. 10th, Hall B2
+**5th DL4C workshop at ICML 2026; Friday Jul. 10th, Hall B2**
 
 | Time | Session |
 | --- | --- |
