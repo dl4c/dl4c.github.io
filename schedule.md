@@ -6,9 +6,7 @@ permalink: /schedule/
 
 The schedule for the 5th DL4C workshop at ICML 2026 is below.
 
-Poster sessions will be held in **Hall A, Board 100-119**.
-
-Note: virtual posters can be uploaded via [icml.cc/PosterUpload](https://icml.cc/PosterUpload).
+Friday Jul. 10th, Hall B2
 
 | Time | Session |
 | --- | --- |
@@ -19,8 +17,10 @@ Note: virtual posters can be uploaded via [icml.cc/PosterUpload](https://icml.cc
 | 10:30 - 11:20 | Spotlight Session:<br>*Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?*<br>*ProgramBench: Can Language Models Rebuild Programs From Scratch?*<br>*Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision*<br>*Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model*<br>*DevBench: An Interaction-Grounded Benchmark for Code Completion Models* |
 | 11:20 - 11:50 | Invited Talk 3 -- Ludwig Schmidt |
 | 11:50 - 13:00 | Lunch |
-| 13:00 - 14:30 | Poster Session 1|
+| 13:00 - 14:30 | Poster Session 1 -- Hall A, Board 100-119|
 | 14:30 - 15:00 | Invited Talk 4 -- Gabriel Synnaeve |
 | 15:00 - 15:20 | Coffee Break |
-| 15:20 - 16:50 | Poster Session 2|
+| 15:20 - 16:50 | Poster Session 2 -- Hall A, Board 100-119|
 | 16:50 - 17:00 | Closing Remarks |
+
+Note: virtual posters can be uploaded via [icml.cc/PosterUpload](https://icml.cc/PosterUpload).
