@@ -14,8 +14,8 @@ permalink: /schedule/
 | 10:10 - 10:30 | Coffee Break |
 | 10:30 - 11:20 | Spotlight Session:<br>*10:30 - 10:40 ProgramBench: Can Language Models Rebuild Programs From Scratch?* *10:40 - 10:50 Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision* *10:50 - 11:00 Systematic LLM Translation of Legacy Scientific Code to Differentiable Frameworks: Application to a Land Surface Model* *11:00 - 11:10 DevBench: An Interaction-Grounded Benchmark for Code Completion Models* *11:10 - 11:20 Coding With "Enemy": Can Human Developers Detect AI Agent Sabotage?* |
 | 11:20 - 11:30 | Best Paper Award |
-| 11:30 - 11:50 | Invited Talk 3 -- Ludwig Schmidt (Stanford/Anthropic) |
-| 11:50 - 13:00 | Lunch |
+| 11:30 - 12:00 | Invited Talk 3 -- Ludwig Schmidt (Stanford/Anthropic) |
+| 12:00 - 13:00 | Lunch |
 | 13:00 - 14:30 | Poster Session 1 -- Hall A, Board 100-119 ([poster assignments](/poster-sessions/)) |
 | 14:30 - 15:00 | Invited Talk 4 -- Gabriel Synnaeve (Meta) |
 | 15:00 - 15:20 | Coffee Break |
