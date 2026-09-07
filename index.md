@@ -1,13 +1,16 @@
 ---
 layout: page
-title: The 5th Deep Learning for Code Workshop
+title: The Deep Learning for Code Workshop
 ---
 
-We are pleased to announce that after four successful editions at ICLR'22, '23, '25, and NeurIPS'25, the 5th Deep Learning for Code (DL4C) workshop is coming to **ICML 2026** in Seoul, South Korea 🇰🇷.
+The Deep Learning for Code (DL4C) workshop brings together researchers from Machine Learning, NLP, Human-Computer Interaction, and Software Engineering to advance how AI systems write, understand, and collaborate on code.
 
-The workshop will be held on **Friday July 10, 2026, 9:00 a.m. – 5:00 p.m.** in **HALL B2** at the COEX Convention & Exhibition Center.
+Since 2022, DL4C has run five editions - at ICLR'22, '23, '25, NeurIPS'25, and ICML'26 - and has had the privilege to host industry-leading speakers, including Graham Neubig, Dawn Song, Junyang Lin, Armando Solar-Lezama, Gabriel Synnaeve, Daniel Tarlow, Jacob Andreas, Daniel Fried, Diyi Yang, Ludwig Schmidt, and many many others.
+
 
 #### News
+
+**Jul 11, 2026** The 5th DL4C workshop at ICML 2026 🇰🇷 has successfully concluded! Thank you to our invited speakers, authors, reviewers, and everyone who joined us in Seoul for a full day of talks, posters, and discussion — the workshop would not happen without you. We hope to see you at the next edition!
 
 **Jul 1, 2026** **Camera-ready submission:** Please submit your camera-ready version through OpenReview by **July 4, 2026** (Anywhere on Earth). Open your paper on OpenReview and use the revision to update it. **Poster sessions:** Please prepare and present your poster following the workshop poster guidelines from the official [ICML 2026 website](https://icml.cc/Conferences/2026). The poster sessions are held in **Hall A, Board 100-119**, with two sessions on the day. Please check the following for the latest details:
 - **Location:** the [official ICML workshop page](https://icml.cc/Conferences/2026)
